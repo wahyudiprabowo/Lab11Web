@@ -87,7 +87,7 @@ dan hasil outputnya :
 
 ![image](https://user-images.githubusercontent.com/81431392/121972257-7a10a400-cd2f-11eb-9184-7349bddd75e0.png)
 
-13. Tugas Pratikum :
+<b>TUGAS PRATIKUM</b>
 
 1. menu home :
 
