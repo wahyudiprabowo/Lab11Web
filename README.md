@@ -106,8 +106,36 @@ dan hasil outputnya :
 ![image](https://user-images.githubusercontent.com/81431392/121972555-3a968780-cd30-11eb-92df-90a65156f3c1.png)
 
 
+<b>Update Tugas Pertemuan ke 11 </b>
 
+1. buat database lab_ci4 :
 
+![image](https://user-images.githubusercontent.com/81431392/122088711-dbca2000-cdba-11eb-8b7a-5e40f3eb30cb.png)
 
+2. konfigurasi koneksi database .env :
+
+![image](https://user-images.githubusercontent.com/81431392/122089782-f6e95f80-cdbb-11eb-9e83-b0d6042a3a7f.png)
+
+3. membuat ArtikelModel.php pada direktori app/Models :
+
+![image](https://user-images.githubusercontent.com/81431392/122090450-9f97bf00-cdbc-11eb-8376-8400cc996fcc.png)
+
+4. membuat Artikel.php pada direktori app/Controllers :
+
+![image](https://user-images.githubusercontent.com/81431392/122090572-bf2ee780-cdbc-11eb-87e2-fc0615637284.png)
+
+5. Membuat direktori artikel pada app/view dan isi file index.php :
+
+![image](https://user-images.githubusercontent.com/81431392/122090922-2482d880-cdbd-11eb-8a05-9a5f49a7eb8f.png)
+
+hasil outputnya :
+
+![image](https://user-images.githubusercontent.com/81431392/122091307-84797f00-cdbd-11eb-8e0c-a96481a58e96.png)
+
+6. tambahkan isi tabel database lab_ci4 :
+
+![image](https://user-images.githubusercontent.com/81431392/122091633-d91cfa00-cdbd-11eb-9ffc-b530cc4664bf.png)
+
+hasil outputnya :
 
 
