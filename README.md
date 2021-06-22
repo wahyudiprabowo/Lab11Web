@@ -142,7 +142,8 @@ hasil outputnya :
 
 7. Membuat View Detail dengan nama app/views/artikel/detail.php :
 
-![image](https://user-images.githubusercontent.com/81431392/122837510-0e878300-d2a9-11eb-9da5-de21a88efac8.png)
+![image](https://user-images.githubusercontent.com/81431392/122852982-58329680-d2c6-11eb-8994-31eb06efa7ad.png)
+
 
 hasil outputnya :
 
