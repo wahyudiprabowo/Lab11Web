@@ -130,7 +130,7 @@ dan hasil outputnya :
 
 hasil outputnya :
 
-![image](https://user-images.githubusercontent.com/81431392/122091307-84797f00-cdbd-11eb-8e0c-a96481a58e96.png)
+![image](https://user-images.githubusercontent.com/81431392/122851566-05f07600-d2c4-11eb-9aae-e1c4393bdea8.png)
 
 6. tambahkan isi tabel database lab_ci4 :
 
