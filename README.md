@@ -138,4 +138,65 @@ hasil outputnya :
 
 hasil outputnya :
 
+![image](https://user-images.githubusercontent.com/81431392/122837257-a5077480-d2a8-11eb-8625-816f0ca3c5d6.png)
+
+7. Membuat View Detail dengan nama app/views/artikel/detail.php :
+
+![image](https://user-images.githubusercontent.com/81431392/122837510-0e878300-d2a9-11eb-9da5-de21a88efac8.png)
+
+hasil outputnya :
+
+![image](https://user-images.githubusercontent.com/81431392/122843259-e5b8bb00-d2b3-11eb-92a8-0c8df1febdee.png)
+
+8. Membuat menu admin :
+
+![image](https://user-images.githubusercontent.com/81431392/122846156-1b60a280-d2ba-11eb-89b4-b5c89238d363.png)
+
+9. Membuat template admin_header dan admin_footer :
+
+![image](https://user-images.githubusercontent.com/81431392/122848478-71374980-d2be-11eb-9db2-98499d753243.png)
+
+![image](https://user-images.githubusercontent.com/81431392/122848503-801dfc00-d2be-11eb-9ddb-dc992aacd7d9.png)
+
+hasil outputnya :
+
+![image](https://user-images.githubusercontent.com/81431392/122848543-9461f900-d2be-11eb-8280-ea9a5ec099c7.png)
+
+10. menambahkan controller add dan membuat form_add.php :
+
+![image](https://user-images.githubusercontent.com/81431392/122848656-dee37580-d2be-11eb-8201-c1fe1281cfc5.png)
+
+![image](https://user-images.githubusercontent.com/81431392/122848883-40a3df80-d2bf-11eb-9a91-0a0a59e8fca4.png)
+
+hasil outputnya dan contoh menambahan artikel baru :
+
+![image](https://user-images.githubusercontent.com/81431392/122849267-071fa400-d2c0-11eb-9d0b-d27aa2c7eaa4.png)
+
+![image](https://user-images.githubusercontent.com/81431392/122849337-28809000-d2c0-11eb-9526-cd2c91488900.png)
+
+11. membuat controler edit dan form_edit.php :
+
+![image](https://user-images.githubusercontent.com/81431392/122850242-be68ea80-d2c1-11eb-834e-cdcc3942e36e.png)
+
+![image](https://user-images.githubusercontent.com/81431392/122850392-fd973b80-d2c1-11eb-9af9-15ef24b73250.png)
+
+hasil outputnya dan contoh edit :
+
+![image](https://user-images.githubusercontent.com/81431392/122850594-549d1080-d2c2-11eb-8a91-3c48bd21d1d4.png)
+
+![image](https://user-images.githubusercontent.com/81431392/122850642-70a0b200-d2c2-11eb-9754-50761d268f8c.png)
+
+12. menambahkan controler untuk menghapus data :
+
+![image](https://user-images.githubusercontent.com/81431392/122850829-bd848880-d2c2-11eb-9020-ed0d8cb35b59.png)
+
+hasil outputnya dan contoh ketika di klik hapus maka data yg dipilih akan hilang :
+
+![image](https://user-images.githubusercontent.com/81431392/122851005-13f1c700-d2c3-11eb-94e0-a5d197094671.png)
+
+![image](https://user-images.githubusercontent.com/81431392/122851215-721eaa00-d2c3-11eb-8857-17e43036374f.png)
+
+
+
+
 
