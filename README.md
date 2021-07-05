@@ -252,3 +252,17 @@ hasil outputnya :
 
 ![image](https://user-images.githubusercontent.com/81431392/123544784-b2d65300-d709-11eb-92d7-2ee02d1adcc6.png)
 
+<b>Lanjut Tugas Pratikum ke 14 </b>
+
+1. Membuat Pagenation :
+
+![image](https://user-images.githubusercontent.com/81431392/124494246-750da600-dd6b-11eb-9ab2-5da12e70d4c7.png)
+
+2. Membuat Pencarian :
+
+![image](https://user-images.githubusercontent.com/81431392/124494400-a4241780-dd6b-11eb-9ae4-c9af7bd5347d.png)
+
+3. Upload Gambar :
+
+![image](https://user-images.githubusercontent.com/81431392/124494642-f36a4800-dd6b-11eb-88b4-4ef97ea2acb3.png)
+
